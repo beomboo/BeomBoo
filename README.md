@@ -6,9 +6,9 @@
   - 학   력: 강원대학교 삼척캠퍼스 컴퓨터공학과 학사졸업 & 석사수료
 
 ✏️ 작업 내용
- - Kotlin 라이브러리 (JitPack)
- - Swift 라이브러리 (CocoaPod)
- - Flutter 기본기 프로젝트
+ - Android(Kotlin) 라이브러리 (JitPack)
+ - iOS(Swift) 라이브러리 (CocoaPod)
+ - Flutter(Dart) 기본기 프로젝트
 
 📖 수강 내역
  - 그림으로 쉽게 배우는 네트워크 (2025.03.01~2025.03.31)
