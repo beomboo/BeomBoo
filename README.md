@@ -3,7 +3,7 @@
   - 주요 기술: Android(Java,Kotlin), iOS(Swift), Flutter(dart)
   - 경   력: 2017.11.15 ~ 현재
   - 재   직: GSITM ES사업본부 KGC인삼공사팀 재직중
-  - 학   력: 강원대학교 컴퓨터공학 학사졸업/석사수료
+  - 학   력: 강원대학교 삼척캠퍼스 컴퓨터공학과 학사졸업 & 석사수료
 
 ✏️ 작업 내용
  - Kotlin 라이브러리 (JitPack)
