@@ -5,14 +5,8 @@
 
 ✏️ 기술
  - Android(Kotlin)
-   1) 라이브러리 (JitPack/Private)
-   2) 하이브리드 앱
  - iOS(Swift)
-   1) 라이브러리 (CocoaPod/Private)
-   2) 하이브리드 앱
  - Flutter(Dart)
-   1) 기본기 프로젝트
-   2) 캘린더 앱
 
 📖 학습이력
  - 그림으로 쉽게 배우는 네트워크 (2025.03.01~2025.03.31)
