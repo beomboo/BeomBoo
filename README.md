@@ -6,3 +6,6 @@
  - Android(Kotlin)
  - iOS(Swift)
  - Flutter(Dart)
+
+🟢 진행중인 프로젝트
+ - Flutter 방치형 게임 (BeomBow)
