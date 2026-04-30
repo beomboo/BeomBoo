@@ -8,7 +8,7 @@
  - Flutter(Dart)
 
 🟢 진행중인 프로젝트
- - Flutter 방치형 게임 개발
-   1) Gemini (Google Antigravity), Claude Code
-   2) Flame Engine
-   3) Android, iOS
+ - 모바일 게임 개발
+   1) AI : Gemini, Claude Code
+   2) Game Engind : Flame
+   3) Flutter : Android, iOS
