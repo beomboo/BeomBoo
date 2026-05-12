@@ -7,8 +7,9 @@
  - iOS(Swift)
  - Flutter(Dart)
 
-🟢 진행중인 프로젝트
- - 모바일 게임 개발
-   1) AI : Gemini, Claude Code
-   2) Game Engind : Flame
-   3) Flutter : Android, iOS
+🟢 모바일 방치형 게임
+   - AI Model : Gemini 3.1 Pro, Gemini 3 Flash, Claude Code Sonnet 4.6
+   - IDE : Antigravity, Visual Studio Code
+   - Game Engind : Flame
+   - Main Language : Dart (Flutter)
+   - MCP : Firebase, Flame, Github
