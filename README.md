@@ -12,4 +12,7 @@
 | **Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) (`Jetpack Compose`, `Coroutines`) |
 | **iOS** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) (`SwiftUI`, `Combine`, `UIKit`) |
 | **Game** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) (`Dart`, `Flame Engine`) |
+| **Claude Code** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-9333ea?style=for-the-badge&logo=anthropic&logoColor=white)|
+| **Gemini** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)|
+
 
