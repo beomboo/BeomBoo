@@ -12,7 +12,7 @@
 ---
 
 ## 🟢 Project
-### 💻 모바일 방치형 게임 프로젝트
+### 💻 모바일 게임 개발
 | Category | Details |
 | :--- | :--- |
 | **Main Language** | **Dart** (Flutter) |
