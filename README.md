@@ -13,8 +13,8 @@
    - Game Engine : Flame
    - Main Language : Dart (Flutter)
    - MCP : Firebase, Flame, Github
-   - 자동화 파이프라인
-     1) Claude Code Schedule Skill 을 활용한 매일 오전9시, 정오 12시 자동 트리거
-     2) GitHub Actions 워크플로우
+   - 자동화 파이프라인 프로세스
+     1) Claude Code Schedule Skill (매일 오전9시, 정오 12시 자동 트리거 스케줄러)
+     2) GitHub Actions (워크플로우)
      3) Cron 이벤트 감지 -> 작업 수행
-     4) Slack Webhook 을 통한 성능 분석 시작/완료 메시지 수신
+     4) Slack Webhook (성능 분석 시작/완료 메시지 수신)
