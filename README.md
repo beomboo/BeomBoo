@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38B6FF&width=435&lines=Hi+there!+👋;I'm+a+Software+Developer;Building+Games+%26+Apps" alt="Typing SVG" />
+
 😃 BeomKyu Choi
   - 이메일: zxc8376@gmail.com
   - 경   력: 2017.11.15 ~ 현재
