@@ -2,7 +2,7 @@
   <a href="mailto:zxc8376@gmail.com">
     <img src="https://img.shields.io/badge/이메일-zxc8376@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/경력-2017.11.15~현재-181717?style=for-the-badge&logo=macOS&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/경력-2017.11.15~현재-181717?style=for-the-badge" alt="Experience"/>
 </div>
 <br>
 
