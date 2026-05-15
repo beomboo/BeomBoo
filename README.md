@@ -14,8 +14,3 @@
 | **Game** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) `Flame Engine` `Dart` |
 
 ---
-
-## 🏗️ Development Intelligence
-- **AI-Driven Dev**: `Antigravity` `VS Code` `Claude 3.5 Sonnet` `Gemini 1.5 Pro`
-- **MCP Ecosystem**: `Firebase` `Flame` `GitHub` `Slack`
-<br>
