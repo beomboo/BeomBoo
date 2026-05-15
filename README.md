@@ -4,9 +4,9 @@
   </a>
   <img src="https://img.shields.io/badge/경력-2017.11.15~현재-181717?style=for-the-badge" alt="Experience"/>
 </div>
+
 <br>
 
-## 🛠️ 주요 스킬
 | Platform | Languages & Frameworks |
 | :--- | :--- |
 | **Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) (`Jetpack Compose`, `Coroutines`) |
