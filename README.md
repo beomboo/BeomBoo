@@ -6,11 +6,10 @@
 </div>
 <br>
 
-## 🛠️ Core Tech Stack
+## 🛠️ 주요 스킬
 | Platform | Languages & Frameworks |
 | :--- | :--- |
 | **Android** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) (`Jetpack Compose`, `Coroutines`) |
 | **iOS** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) (`SwiftUI`, `Combine`, `UIKit`) |
 | **Game** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) (`Dart`, `Flame Engine`) |
 
----
