@@ -10,7 +10,7 @@
 🟢 모바일 방치형 게임
    - AI Model : Gemini 3.1 Pro, Gemini 3 Flash, Claude Code Sonnet 4.6
    - IDE : Antigravity, Visual Studio Code
-   - Game Engind : Flame
+   - Game Engine : Flame
    - Main Language : Dart (Flutter)
    - MCP : Firebase, Flame, Github
    - 자동화 파이프라인
