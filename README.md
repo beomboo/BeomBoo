@@ -14,3 +14,6 @@
 | **Game** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) (`Dart`, `Flame Engine`) |
 | **Claude Code** | ![Claude Code](https://img.shields.io/badge/Claude%20Code-9333ea?style=for-the-badge&logo=anthropic&logoColor=white)|
 | **Gemini** | ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)|
+
+
+- 🔮 **[사주랑 (Sajurang)](https://sajurang.beomboo.com/)** — 생년월일시로 사주팔자를 계산하고 계산 근거까지 쉬운 우리말로 풀어주는 명리·운세 앱 `(Flutter, iOS/Android)`
